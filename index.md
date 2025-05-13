@@ -27,3 +27,5 @@ Von **Secret Wars** bis **House of M**, von **Infinity War** bis **Dark Reign** 
 > Dieses Archiv wächst stetig – mit jeder neuen Datei (und meiner Lesereihenfolge) brechen wir tiefer durch den Schleier der Realitäten.
 >
 > **Excelsior!**
+>
+> ➡️ [Zu den Superhelden](helden/index.md)
