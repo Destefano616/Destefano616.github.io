@@ -12,4 +12,4 @@ Lerne die düsteren Figuren kennen, die Geschichte geschrieben haben – von **D
 
 🔙 [Zurück zur Startseite](../index.md)
 
-➡️ [Mehr über Equinox – Terrance Sorenson erfahren](equinox-terrance-sorenson/index.md)
+➡️ [Mehr über Equinox – Terrance 'Terry' Sorenson erfahren](equinox-terrance-sorenson/index.md)
