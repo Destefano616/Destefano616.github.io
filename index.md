@@ -30,7 +30,7 @@ Von **Secret Wars** bis **House of M**, von **Infinity War** bis **Dark Reign** 
 >
 > ➡️ [Zu den Superhelden](helden/index.md)
 > ➡️ [Zu den Superschurken](schurken/index.md)
-> ➡️ [Zu den Anti-Helden](antihelden/index.md)
+> ➡️ [Zu den Anti-Helden](antihelden/)
 >
 > > ⚠️ **Hinweis zum Urheberrecht:**
 > Dieses Projekt ist ein rein privates, nicht-kommerzielles Fanarchiv.  
