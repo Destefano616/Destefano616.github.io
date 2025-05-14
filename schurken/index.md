@@ -11,3 +11,5 @@ Lerne die düsteren Figuren kennen, die Geschichte geschrieben haben – von **D
 > Ihre Taten hinterlassen Narben – auf Welten, in Herzen und im Gewebe der Realität selbst.
 
 🔙 [Zurück zur Startseite](../index.md)
+
+➡️ [Mehr über Equinox – Terrance Sorenson erfahren](equinox-terrance-sorenson/index.md)
