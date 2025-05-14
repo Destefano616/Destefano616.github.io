@@ -6,7 +6,7 @@ Diese Seite ist jenen gewidmet, die das Gleichgewicht stören, Macht an sich rei
 Ob wahnsinnige Genies, gefallene Engel oder uralte kosmische Bedrohungen – Marvels Superschurken sind mehr als bloße Gegenspieler.  
 Sie sind Visionäre, Fanatiker, Herrscher und Monster … und manchmal sogar Opfer ihrer eigenen Ambitionen.
 
-Lerne die düsteren Figuren kennen, die Geschichte geschrieben haben – von **Doctor Doom**, **Thanos** und **dem Grünen Kobold** bis hin zu **Kang**, **Magneto** und realitätsverändernden Bedrohungen wie der Symbiontenvater **Knull**, Höllenfürst **Mephisto**, Alptraum-Entität **Nightmare**, der mysteriöse **Graue Verbund** oder den **Imperator**, mit seinen magieverschlingenden **Empirikul**-Horden.
+Lerne die düsteren Figuren kennen, die Geschichte geschrieben haben – von **Doctor Doom**, **Thanos** und **dem Grünen Kobold** bis hin zu **Kang**, **Magneto** und realitätsverändernden Bedrohungen wie dem Symbiontenvater **Knull**, Höllenfürst **Mephisto**, Alptraum-Entität **Nightmare**, dem mysteriösen **Grauen Verbund** oder dem **Imperator**, mit seinen magieverschlingenden **Empirikul**-Horden.
 
 > Ihre Taten hinterlassen Narben – auf Welten, in Herzen und im Gewebe der Realität selbst.
 
