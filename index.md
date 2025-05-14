@@ -29,3 +29,12 @@ Von **Secret Wars** bis **House of M**, von **Infinity War** bis **Dark Reign** 
 > **Excelsior!**
 >
 > ➡️ [Zu den Superhelden](helden/index.md)
+>
+> > ⚠️ **Hinweis zum Urheberrecht:**
+> Dieses Projekt ist ein rein privates, nicht-kommerzielles Fanarchiv.  
+> Alle dargestellten Figuren, Begriffe, Orte und visuellen Elemente basieren auf Werken von **Marvel Comics**.  
+> Rechte an Namen, Designs und Inhalten verbleiben bei den jeweiligen Inhabern.  
+> Einzelne visuelle Elemente stammen aus offiziell veröffentlichten Comics und dienen ausschließlich der Illustration.  
+> 
+> Weiterführende Informationen unter:  
+> 🔗 [https://marvel.fandom.com](https://marvel.fandom.com)
