@@ -29,6 +29,8 @@ Von **Secret Wars** bis **House of M**, von **Infinity War** bis **Dark Reign** 
 > **Excelsior!**
 >
 > ➡️ [Zu den Superhelden](helden/index.md)
+> ➡️ [Zu den Superschurken](schurken/index.md)
+> ➡️ [Zu den Anti-Helden](anti-helden/index.md)
 >
 > > ⚠️ **Hinweis zum Urheberrecht:**
 > Dieses Projekt ist ein rein privates, nicht-kommerzielles Fanarchiv.  
