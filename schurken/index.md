@@ -13,7 +13,7 @@ Lerne die düsteren Figuren kennen, die Geschichte geschrieben haben – von **D
 🔙 [Zurück zur Startseite](../index.md)
 
 <p align="center">
-  <a href="equinox-terrance-sorenson/index.md">
+  <a href="equinox-terrance-sorenson/">
     <img src="equinox-terrance-sorenson/equinox.jpg" alt="Equinox" width="180" />
   </a>
   <br>
