@@ -16,5 +16,5 @@ Lerne die düsteren Figuren kennen, die Geschichte geschrieben haben – von **D
   <a href="equinox-terrance-sorenson/index.md">
     <img src="./equinox.png.jpg" alt="Equinox" width="180"/>
   </a><br>
- <span style="font-size: 14px;">➡️ Mehr über Equinox – Terrance ‘Terry’ Sorenson erfahren</span>
+ <span style="font-size: 12px;">➡️ Mehr über Equinox – Terrance ‘Terry’ Sorenson erfahren</span>
 </p>
