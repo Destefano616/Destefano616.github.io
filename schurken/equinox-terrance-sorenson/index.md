@@ -1,3 +1,8 @@
+---
+title: Equinox – Terrance Sorenson
+layout: default
+---
+
 ## 🧪🔥❄️ Equinox – Terrance "Terry" Sorenson
 
 **Spitznamen / Alias:** Thermodynamic Man, Noxie, Lunatic Thermometer  
